@@ -40,6 +40,7 @@ Conoce el temario completo que ha sido dispuesto a través de los 4 módulos a c
   - Trasposición, aplanamiento y reversa
   - Módulo random
   - Módulo de álgebra lineal
+  - Conoce SciPy
 </details>
 
 <details>
