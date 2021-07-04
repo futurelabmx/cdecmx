@@ -1,0 +1,20 @@
+style: is-light
+items:
+  - title: Brent Smith
+    subtitle: Arizona State University
+    photo: ../assets/images/brent.png
+    description: >
+      A tagline about the instructor.
+      
+      As much content as wanted.
+    call_to_action_name: ✉️ Send an email
+    call_to_action_link: mailto:bsmith18@asu.edu
+  - title: Rodolfo Ferro
+    subtitle: Centro de Investigación en Matemáticas
+    photo: ../assets/images/rodolfo.jpg
+    description: >
+      A tagline about the instructor.
+      
+      As much content as wanted.
+    call_to_action_name: ✉️ Send an email
+    call_to_action_link: mailto:ferro@cimat.mx

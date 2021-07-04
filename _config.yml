@@ -1,0 +1,67 @@
+theme: bulma-clean-theme
+
+# Site Settings
+title: ¡Aprende Python! 🐍
+tagline: Clubes de Ciencia México 2019
+email: rodolfoferroperez@gmail.com
+description: >
+  Revealing the Hidden Hyperspectrum with Artificial Neurons
+baseurl: ""
+url: ""
+permalink: pretty
+
+paginate: 5
+paginate_path: "/blog/page:num"
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-feed
+  - jekyll-seo-tag
+  - kramdown
+  - rouge
+
+exclude: 
+  - Gemfile
+  - clean-theme.gemspec
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/ 
+
+livereload: true
+
+sass:
+  style: compressed
+  source_dir: _sass
+
+#google_analytics: UA-code-here
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      show_sidebar: true
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      author: "Rodolfo Ferro"
+      layout: post
+      image: https://via.placeholder.com/1200x800
+      show_sidebar: false
+
+markdown: kramdown
+highlighter: rouge
+
+collections:
+  photos: 
+    output: true
+    layout: product
+    image: https://via.placeholder.com/800x600
+    show_sidebar: false

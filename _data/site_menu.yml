@@ -1,0 +1,20 @@
+- label: Mapa del sitio
+  items:
+    - name: Inicio
+      link: /
+    - name: Acerca de
+      link: /acerca-de/
+    - name: A. NumPy
+      link: #
+      items:
+        - name: Day 1
+          link: /day1/
+        - name: Day 2
+          link: /day2/
+    - name: B. Pandas
+      link: #
+      items:
+        - name: Day 3
+          link: /day3/
+        - name: Day 4
+          link: /day4/

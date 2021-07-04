@@ -1,0 +1,15 @@
+- name: Acerca de
+  link: /acerca-de/
+- name: Material
+  link: #
+  dropdown:
+    - name: Day 1
+      link: /day1/
+    - name: Day 2
+      link: /day2/
+    - name: Day 3
+      link: /day3/
+    - name: Day 4
+      link: /day4/
+    - name: Day 5
+      link: /day5/

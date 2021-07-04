@@ -1,0 +1,10 @@
+alignment: is-left
+style: is-boxed
+size: is-large
+items:
+  - name: Day's content
+    link: /day1/
+    icon: fa-bullseye
+  - name: Exercises
+    link: /exercises-day1/
+    icon: fa-angle-double-right
