@@ -19,8 +19,4 @@
       items:
         - name: Bloque 1
           link: /bloque-1C/
-    - name: D. Ciencia reproducible
-      link: #
-      items:
-        - name: Bloque 1
-          link: /bloque-1D/
+          link: /bloque-2C/

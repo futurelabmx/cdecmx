@@ -8,7 +8,7 @@ layout: page
 show_sidebar: false
 hide_footer: false
 menubar: site_menu
-tabs: day1_tabs
+tabs: test-A
 ---
 
 # Introducción a Python
@@ -24,7 +24,7 @@ En esta sección aprenderás lo básico sobre Python, al menos a un nivel concep
 ## What is Python?
 
 <center>
-    <img width="50%" src="https://www.python.org/static/community_logos/python-logo-generic.svg">
+  <img width="50%" src="https://www.python.org/static/community_logos/python-logo-generic.svg">
 </center>
 
 Python is an **interpreted** programming language, which means that an _interpreter_ runs and executes your code line by line instead compiling it. Python has an elegant syntax that forces you to **indent your code to build code blocks**, so Python does not use `{ }` for code blocks. It is not common to use  semicolons in Python ( `;` ) at the end of any sentece. Another cool thing about Python is that you do not need to declare variables, you only define them, and it happens that Python is **dynamically typed**.
@@ -35,3 +35,11 @@ Python is an **interpreted** programming language, which means that an _interpre
     <img width="30%" src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
   </a>
 </center>
+
+<!-- Buttons -->
+<br>
+<div class="buttons has-addons is-centered">
+  <a class="button is-outlined" href="/conoce-mas/">◀︎ Anterior</a>
+  <a class="button is-warning" href="/test-A/">📝 Realizar prueba del módulo</a>
+  <a class="button is-outlined" href="/bloque-2A/">Siguiente ▶︎</a>
+</div>

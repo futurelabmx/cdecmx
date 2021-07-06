@@ -73,9 +73,14 @@ Conoce el temario completo que ha sido dispuesto a través de los 4 módulos a c
     <br>
   </ul>
 </details>
+<br>
+
+#### Módulo complementario (¡ESPÉRALO PRONTO!)
+
+Este curso cuenta con un módulo complementario que contiene algunos tópicos selectos que te ayudarán a tener un mejor control de tus experimentos con código, aprenderás cómo funcionan diferentes entornos de computación con Python y aprenderás cómo puedes albergar un bonito sitio web estático para reportar resultados a través de GitHub Pages (incluso podrás construir un sitio como el de este curso).
 
  <details>
-  <summary>D. ¡Ciencia reproducible, datos, GitHub y más!</summary>
+  <summary>EXTRA. ¡Ciencia reproducible, datos, GitHub y más!</summary>
   <ul>
     <li>Ambientes de computación:</li>
     <ul>
