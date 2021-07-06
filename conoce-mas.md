@@ -1,20 +1,20 @@
 ---
+title: Acerca del curso...
+subtitle: Conoce los contenidos y a tu instructor
 layout: page
-title: 🧬 Curso de programación científica
-subtitle: Clubes de Ciencia México / Future Lab
-hero_height: is-large
-hero_link: /conoce-mas/
-hero_link_text: Conoce más 👩🏽‍💻
+callouts: instructors
 show_sidebar: false
 hide_footer: false
-# callouts: example_callouts
+instructors: true
 ---
+# Overview
 
-### Este curso es para ti...
+Curso de introducción al cómputo científico con [Python](https://www.python.org/). Aprende las bases de Python, un lenguaje de programación simple, elegante y poderoso. Con pocas líneas de código puedes crear bastante, es por ello que cursos formales por algunas de las mejores universidades del mundo lo elijan para temas que van desde introducción a la programación, hasta desarrollo web, ciencia de datos e inteligencia artificial.
 
-¡Aprende a programar en lenguaje Python con Clubes de Ciencia México y Future Lab! 🐍🚀
+## Objetivos de aprendizaje
 
-Este es un curso diseñado y preparado con mucho 💙 y 💻 para las y los Cluberos que están por comenzar la travesía de iniciar en el mundo de la programación. Aquí aprenderás conceptos funcamentales y casos de aplicació en diferentes áreas de las ciencias, como procesamiento digital de imágenes, estadística y más.
+- Introducir conceptos de programación básica e intermedia.
+- Desarrollar el pensamiento lógico y habilidades de cómputo científico.
 
 
 # Temario
@@ -98,6 +98,7 @@ Conoce el temario completo que ha sido dispuesto a través de los 4 módulos a c
   </ul>
 </details>
 
+
 # Prerrequisitos
 
 #### Requeridos
@@ -115,6 +116,7 @@ Conoce el temario completo que ha sido dispuesto a través de los 4 módulos a c
 #### Otros
 
 - ¡Pasión por la experimentación y el aprendizaje de cosas nuevas!
+
 
 # FAQ
 

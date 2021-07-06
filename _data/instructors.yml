@@ -1,20 +1,14 @@
 style: is-light
 items:
-  - title: Brent Smith
-    subtitle: Arizona State University
-    photo: ../assets/images/brent.png
-    description: >
-      A tagline about the instructor.
-      
-      As much content as wanted.
-    call_to_action_name: ✉️ Send an email
-    call_to_action_link: mailto:bsmith18@asu.edu
   - title: Rodolfo Ferro
-    subtitle: Centro de Investigación en Matemáticas
-    photo: ../assets/images/rodolfo.jpg
+    subtitle: Future Lab / Clubes de Ciencia México
+    photo: ../assets/images/rodo_2021.png
     description: >
-      A tagline about the instructor.
-      
-      As much content as wanted.
-    call_to_action_name: ✉️ Send an email
+      Mi nombre es Rodo y seré tu instructor en este curso de programación
+      con Python. Participo como voluntario en Clubes de Ciencia México desde
+      2015 y he sido instructor en diferentes ocasiones. Actualmente trabajo
+      como ingeniero de machine learning en Zetalabs S.L., donde desarrollo
+      modelos de visión artificial utilizando Python. Soy cofundador de
+      Future Lab.
+    call_to_action_name: ✉️ Enviar email
     call_to_action_link: mailto:ferro@cimat.mx

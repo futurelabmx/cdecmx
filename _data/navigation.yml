@@ -1,15 +1,13 @@
-- name: Acerca de
-  link: /acerca-de/
-- name: Material
+- name: Conoce más
+  link: /conoce-mas/
+- name: Contenidos
   link: #
   dropdown:
-    - name: Day 1
-      link: /day1/
-    - name: Day 2
-      link: /day2/
-    - name: Day 3
-      link: /day3/
-    - name: Day 4
-      link: /day4/
-    - name: Day 5
-      link: /day5/
+    - name: A. Intro a Python
+      link: /bloque-1A/
+    - name: B. NumPy
+      link: /bloque-1B/
+    - name: C. Pandas
+      link: /bloque-1C/
+    - name: D. Ciencia reproducible
+      link: /bloque-1D/

@@ -1,9 +1,9 @@
 ---
-title: "Day 1:"
+title: "Bloque 1:"
 subtitle: >
-  - Introduction to Physics of Light and Image Sensors <br>
-  - Hyperspectral Cameras <br>
-  - Introduction to Python
+  - ¿Qué es programar? <br>
+  - ¿Qué es y por qué Python? <br>
+  - Introducción al entorno de trabajo → Google Colab + Markdown
 layout: page
 show_sidebar: false
 hide_footer: false
@@ -11,31 +11,15 @@ menubar: site_menu
 tabs: day1_tabs
 ---
 
-# Introduction to Physics of Light and Image Sensors
+# Introducción a Python
 
-You can download the lecture slides in the following link.<br>
-<center>
-  <h4>Get the slides:</h4>
-  <a href="/assets/docs/CdeC-day1-part1.pptx" class="button is-primary is-normal is-outlined is-fullwidth">Download</a>
-</center>
+En esta sección aprenderás lo básico sobre Python, al menos a un nivel conceptual. Hemos preparado un video explicativo para ti, donde cubriremos los siguientes temas:
 
-# Hyperspectral Cameras
+- ¿Qué es programar?
+- ¿Qué es y por qué Python?
+- Introducción al entorno de trabajo → Google Colab + Markdown
 
-You can download the lecture slides in the following link.<br>
-<center>
-  <h4>Get the slides:</h4>
-  <a href="/assets/docs/CdeC-day1-part2.pptx" class="button is-primary is-normal is-outlined is-fullwidth">Download</a>
-</center>
-
-# Introduction to Python
-
-In this section we will learn the basics of Python. We have prepared a notebook containing details, examples, and exercises about the following topics:
-
-- What is Python?
-- *Variables* – Types, declarations, and operations
-- *Flow control* – Conditionals and loops
-- Advanced objects – *Lists* and *dictionaries*
-- Packing functionality – *Functions*
+![YouTube Thumbnail](https://vidooly.com/blog/wp-content/uploads/2015/01/How-to-optimise-your-YouTube-Thumbnails.png)
 
 ## What is Python?
 

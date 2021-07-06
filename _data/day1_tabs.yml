@@ -2,9 +2,9 @@ alignment: is-left
 style: is-boxed
 size: is-large
 items:
-  - name: Day's content
-    link: /day1/
+  - name: Contenido
+    link: /bloque-1A/
     icon: fa-bullseye
-  - name: Exercises
-    link: /exercises-day1/
+  - name: Ejercicios
+    link: /ejercicios-1A/
     icon: fa-angle-double-right
