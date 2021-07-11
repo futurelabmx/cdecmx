@@ -9,6 +9,12 @@
       items:
         - name: Bloque 1
           link: /bloque-1A/
+        - name: Bloque 2
+          link: /bloque-2A/
+        - name: Bloque 3
+          link: /bloque-3A/
+        - name: Bloque 4
+          link: /bloque-4A/
     - name: B. NumPy
       link: # 
       items:
@@ -19,4 +25,3 @@
       items:
         - name: Bloque 1
           link: /bloque-1C/
-          link: /bloque-2C/

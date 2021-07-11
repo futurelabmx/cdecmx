@@ -1,14 +1,12 @@
 ---
-title: "Day 1:"
+title: "Prueba de conocimientos:"
 subtitle: >
-  - Introduction to Physics of Light and Image Sensors <br>
-  - Hyperspectral Cameras <br>
-  - Introduction to Python
+  - Introducción a Python
 layout: page
 show_sidebar: false
 hide_footer: false
 menubar: site_menu
-tabs: test-A
+tabs: test-2A
 ---
 
 # Prueba del módulo A

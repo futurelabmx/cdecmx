@@ -33,8 +33,8 @@ Conoce el temario completo que ha sido dispuesto a través de los 4 módulos a c
     <li>Condicionales</li>
     <li>Listas y tuplas</li>
     <li>Ciclos</li>
-    <li>Funciones</li>
     <li>Diccionarios</li>
+    <li>Funciones</li>
     <li>Módulos y paquetes</li>
     <br>
   </ul>
