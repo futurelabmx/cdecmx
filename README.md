@@ -2,10 +2,11 @@
 
 ¡Aprende a programar en lenguaje Python con Clubes de Ciencia México y Future Lab! 🐍🚀
 
-Este es un curso diseñado y preparado con mucho 💙 y 💻 para las y los Cluberos que están por comenzar la travesía de iniciar en el mundo de la programación. Accede a los contenidos del curso en nuestro sitio oficial: [https://futurelab.mx/cdecmx]()
+Este es un curso diseñado y preparado con mucho 💙 y 💻 para las y los Cluberos que están por comenzar la travesía de iniciar en el mundo de la programación. Accede a los contenidos del curso en nuestro sitio oficial: [https://futurelab.mx/cdecmx](https://futurelab.mx/cdecmx)
 
 ### Requisitos
 
+Conoce todos los detalles en el [sitio oficial del curso](https://futurelab.mx/cdecmx).
 
 ### Temario
 
@@ -23,8 +24,8 @@ Conoce el temario completo que ha sido dispuesto a través de los 4 módulos a c
   - Condicionales
   - Listas y tuplas
   - Ciclos
-  - Funciones
   - Diccionarios
+  - Funciones
   - Módulos y paquetes
 </details>
 
