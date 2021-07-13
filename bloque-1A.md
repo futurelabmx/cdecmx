@@ -11,6 +11,34 @@ menubar: site_menu
 tabs: test-1A
 ---
 
+<style>
+  .outer {
+      width: 100%;
+      max-width: 2000px;
+      margin: 0 auto;
+  }
+  .video-wrapper {
+      height: 0;
+      margin: auto;
+      z-index: 1;
+      position: relative;
+      padding-top: 25px;
+      padding-bottom: 56.25%;
+      display: block;
+      overflow: hidden;
+    
+    iframe {
+      display: block;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      z-index: 5;
+      position: absolute;
+    }
+  }
+</style>
+
 # Introducción a Python - Bloque 1
 
 <br>
@@ -25,7 +53,9 @@ En esta sección aprenderás lo básico sobre Python, al menos a un nivel concep
 - ¿Qué es y por qué Python?
 - Introducción al entorno de trabajo → Google Colab + Markdown & Evaluación
 
-<iframe width="650" height="500" src="https://www.youtube.com/embed/xm4jKcZDdxc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<figure class="image is-16by9">
+  <iframe class="has-ratio" src="https://www.youtube.com/embed/xm4jKcZDdxc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</figure>
 
 ## ¿Qué es programar?
 
