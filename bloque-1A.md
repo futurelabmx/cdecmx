@@ -25,7 +25,7 @@ En esta sección aprenderás lo básico sobre Python, al menos a un nivel concep
 - ¿Qué es y por qué Python?
 - Introducción al entorno de trabajo → Google Colab + Markdown & Evaluación
 
-![YouTube Thumbnail](https://vidooly.com/blog/wp-content/uploads/2015/01/How-to-optimise-your-YouTube-Thumbnails.png)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xm4jKcZDdxc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## ¿Qué es programar?
 
