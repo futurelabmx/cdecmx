@@ -85,7 +85,7 @@ Además de su versatilidad, Python es un lenguaje de programación de curva de a
 <!-- Buttons -->
 <br>
 <div class="buttons has-addons is-centered">
-  <a class="button is-outlined" href="/conoce-mas/">◀︎ Anterior</a>
-  <a class="button is-warning" href="/test-1A/">📝 Realizar prueba del módulo</a>
-  <a class="button is-outlined" href="/bloque-2A/">Siguiente ▶︎</a>
+  <a class="button is-outlined" href="{{ site.baseurl }}/conoce-mas/">◀︎ Anterior</a>
+  <a class="button is-warning" href="{{ site.baseurl }}/test-1A/">📝 Realizar prueba del módulo</a>
+  <a class="button is-outlined" href="{{ site.baseurl }}/bloque-2A/">Siguiente ▶︎</a>
 </div>
