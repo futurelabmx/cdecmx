@@ -6,8 +6,8 @@ tagline: Clubes de Ciencia México 2019
 email: rodolfoferroperez@gmail.com
 description: >
   🧬 Curso de programación científica con Python
-baseurl: ""
-url: "https:/futurelab.mx/cdecmx/"
+baseurl: "/cdecmx/"
+url: ""
 permalink: pretty
 
 paginate: 5
