@@ -91,7 +91,7 @@ else:
 <!-- Buttons -->
 <br>
 <div class="buttons has-addons is-centered">
-  <a class="button is-outlined" href="/bloque-1A/">◀︎ Anterior</a>
-  <a class="button is-warning" href="/test-2A/">📝 Realizar prueba del módulo</a>
-  <a class="button is-outlined" href="/bloque-3A/">Siguiente ▶︎</a>
+  <a class="button is-outlined" href="{{ site.baseurl }}/bloque-1A/">◀︎ Anterior</a>
+  <a class="button is-warning" href="{{ site.baseurl }}/test-2A/">📝 Realizar prueba del módulo</a>
+  <a class="button is-outlined" href="{{ site.baseurl }}/bloque-3A/">Siguiente ▶︎</a>
 </div>

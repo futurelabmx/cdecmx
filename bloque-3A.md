@@ -80,7 +80,7 @@ for element in collection:
 <!-- Buttons -->
 <br>
 <div class="buttons has-addons is-centered">
-  <a class="button is-outlined" href="/bloque-2A/">◀︎ Anterior</a>
-  <a class="button is-warning" href="/test-3A/">📝 Realizar prueba del módulo</a>
-  <a class="button is-outlined" href="/bloque-4A/">Siguiente ▶︎</a>
+  <a class="button is-outlined" href="{{ site.baseurl }}/bloque-2A/">◀︎ Anterior</a>
+  <a class="button is-warning" href="{{ site.baseurl }}/test-3A/">📝 Realizar prueba del módulo</a>
+  <a class="button is-outlined" href="{{ site.baseurl }}/bloque-4A/">Siguiente ▶︎</a>
 </div>

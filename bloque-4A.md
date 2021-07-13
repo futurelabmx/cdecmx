@@ -79,7 +79,7 @@ De manera nativa, Python ya cuenta con diversos módulos en su biblioteca están
 <!-- Buttons -->
 <br>
 <div class="buttons has-addons is-centered">
-  <a class="button is-outlined" href="/bloque-3A/">◀︎ Anterior</a>
-  <a class="button is-warning" href="/test-4A/">📝 Realizar prueba del módulo</a>
-  <a class="button is-outlined" href="/bloque-1B/">Siguiente ▶︎</a>
+  <a class="button is-outlined" href="{{ site.baseurl }}/bloque-3A/">◀︎ Anterior</a>
+  <a class="button is-warning" href="{{ site.baseurl }}/test-4A/">📝 Realizar prueba del módulo</a>
+  <a class="button is-outlined" href="{{ site.baseurl }}/bloque-1B/">Siguiente ▶︎</a>
 </div>
