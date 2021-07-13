@@ -28,7 +28,7 @@ En esta sección comenzarás a trabajar con las bases de Python. Hemos preparado
 - Condicionales
 
 <figure class="image is-16by9">
-  <iframe class="has-ratio" src="https://youtu.be/G6522FJ5m0U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe class="has-ratio" src="https://www.youtube.com/embed/G6522FJ5m0U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </figure>
 
 ## I/O - ¡Hola mundo!
