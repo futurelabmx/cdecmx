@@ -7,7 +7,7 @@ email: rodolfoferroperez@gmail.com
 description: >
   🧬 Curso de programación científica con Python
 baseurl: "/cdecmx/"
-url: ""
+url: "https://futurelab.mx/"
 permalink: pretty
 
 paginate: 5
