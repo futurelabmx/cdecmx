@@ -10,6 +10,18 @@ hide_footer: false
 # callouts: example_callouts
 ---
 
+<div class="notification is-link">
+  <h3 class="has-text-white">¡IMPORTANTE! ⚠️</h3>
+  
+  En los próximos días estaremos actualizando los siguientes contenidos:
+  <ul>
+    <li>La prueba correspondiente al módulo de Introducción a Python.</li>
+    <li>Los contenidos correspondientes al módulo de Introducción a NumPy.</li>
+  </ul>
+
+  ¡Te recomendamos constantemente revisar esta página principal para mantenerte al tanto! 🚀
+</div>
+
 ### Este curso es para ti...
 
 ¡Aprende a programar en lenguaje Python con Clubes de Ciencia México y Future Lab! 🐍🚀
