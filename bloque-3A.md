@@ -23,7 +23,9 @@ En esta sección comenzarás a trabajar con las bases de Python. Hemos preparado
 - Listas y tuplas
 - Ciclos
 
-![YouTube Thumbnail](https://vidooly.com/blog/wp-content/uploads/2015/01/How-to-optimise-your-YouTube-Thumbnails.png)
+<figure class="image is-16by9">
+  <iframe class="has-ratio" src="https://www.youtube.com/embed/xIbX_xWtPX8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</figure>
 
 ## Colecciones
 
