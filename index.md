@@ -21,8 +21,8 @@ hide_footer: false
   
   <u>En los próximos días estaremos actualizando los siguientes contenidos:</u>
   <ul>
-    <li>Los contenidos correspondientes al módulo de Introducción a NumPy.</li>
-    <li>Los contenidos correspondientes al módulo de Introducción a Pandas.</li>
+    <li>Los contenidos correspondientes al módulo de Introducción a NumPy. (27/07/2021)</li>
+    <li>Los contenidos correspondientes al módulo de Introducción a Pandas. (29/07/2021)</li>
   </ul>
 
   <h4 class="has-text-white">¡Te recomendamos constantemente revisar esta página principal para mantenerte al tanto! 🚀</h4>
