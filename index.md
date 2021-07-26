@@ -15,6 +15,7 @@ hide_footer: false
   
   En los próximos días estaremos actualizando los siguientes contenidos:
   <ul>
+    <li>El Bloque 4 del módulo de Introducción a Python.</li>
     <li>La prueba correspondiente al módulo de Introducción a Python.</li>
     <li>Los contenidos correspondientes al módulo de Introducción a NumPy.</li>
   </ul>
