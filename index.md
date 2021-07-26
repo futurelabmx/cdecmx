@@ -59,8 +59,8 @@ Conoce el temario completo que ha sido dispuesto a través de los 4 módulos a c
     <li>Atributos, tamaño y forma</li>
     <li>Indexación y slicing</li>
     <li>Operaciones básicas, broadcasting</li>
-    <li>Matrices en NumPy</li>
     <li>Valores únicos y cuentas</li>
+    <li>Matrices en NumPy</li>
     <li>Trasposición, aplanamiento y reversa</li>
     <li>Módulo random</li>
     <li>Módulo de álgebra lineal</li>
