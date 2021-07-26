@@ -25,7 +25,7 @@ En esta sección comenzarás a trabajar con las bases de Python. Hemos preparado
 - Funciones
 - Módulos y paquetes
 
-![YouTube Thumbnail](https://vidooly.com/blog/wp-content/uploads/2015/01/How-to-optimise-your-YouTube-Thumbnails.png)
+<iframe class="has-ratio" src="https://www.youtube.com/embed/82Tko4At1Q8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Colecciones - Diccionarios
 
