@@ -11,16 +11,21 @@ hide_footer: false
 ---
 
 <div class="notification is-link">
-  <h3 class="has-text-white">¡IMPORTANTE! ⚠️</h3>
-  
-  En los próximos días estaremos actualizando los siguientes contenidos:
+  <h2 class="has-text-white">¡IMPORTANTE! ⚠️ (25/07/2021)</h2>
+
+  <u>Hemos agregado los siguientes contenidos:</u>
   <ul>
     <li>El Bloque 4 del módulo de Introducción a Python.</li>
     <li>La prueba correspondiente al módulo de Introducción a Python.</li>
+  </ul>
+  
+  <u>En los próximos días estaremos actualizando los siguientes contenidos:</u>
+  <ul>
     <li>Los contenidos correspondientes al módulo de Introducción a NumPy.</li>
+    <li>Los contenidos correspondientes al módulo de Introducción a Pandas.</li>
   </ul>
 
-  ¡Te recomendamos constantemente revisar esta página principal para mantenerte al tanto! 🚀
+  <h4 class="has-text-white">¡Te recomendamos constantemente revisar esta página principal para mantenerte al tanto! 🚀</h4>
 </div>
 
 ### Este curso es para ti...

@@ -25,7 +25,9 @@ En esta sección comenzarás a trabajar con las bases de Python. Hemos preparado
 - Funciones
 - Módulos y paquetes
 
-<iframe class="has-ratio" src="https://www.youtube.com/embed/82Tko4At1Q8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<figure class="image is-16by9">
+  <iframe class="has-ratio" src="https://www.youtube.com/embed/82Tko4At1Q8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</figure>
 
 ## Colecciones - Diccionarios
 
