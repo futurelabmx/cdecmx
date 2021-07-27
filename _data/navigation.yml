@@ -1,7 +1,7 @@
 - name: Conoce más
   link: /conoce-mas/
 - name: Contenidos
-  link: #
+  link: /bloque-1A/
   dropdown:
     - name: A. Intro a Python
       link: /bloque-1A/

@@ -11,19 +11,23 @@ hide_footer: false
 ---
 
 <div class="notification is-link">
-  <h2 class="has-text-white">¡IMPORTANTE! ⚠️ (25/07/2021)</h2>
+  <h2 class="has-text-white">¡IMPORTANTE! ⚠️ (26/07/2021)</h2>
 
-  <u>Hemos agregado los siguientes contenidos:</u>
+  <u>A la fecha, hemos agregado los siguientes contenidos:</u>
   <ul>
     <li>El Bloque 4 del módulo de Introducción a Python.</li>
     <li>La prueba correspondiente al módulo de Introducción a Python.</li>
+    <li>Los materiales y diapositivas correspondientes al módulo de Introducción a NumPy.</li>
   </ul>
   
   <u>En los próximos días estaremos actualizando los siguientes contenidos:</u>
   <ul>
-    <li>Los contenidos correspondientes al módulo de Introducción a NumPy. (27/07/2021)</li>
-    <li>Los contenidos correspondientes al módulo de Introducción a Pandas. (29/07/2021)</li>
+    <li>Los videos correspondientes al módulo de Introducción a NumPy. (27/07/2021<sup>*</sup>)</li>
+    <li>La prueba correspondiente al módulo de Introducción a Python. (27/07/2021<sup>*</sup>)</li>
+    <li>Los contenidos correspondientes al módulo de Introducción a Pandas. (29/07/2021<sup>*</sup>)</li>
   </ul>
+
+  <p><sup>*</sup> Fechas tentativas.</p>
 
   <h4 class="has-text-white">¡Te recomendamos constantemente revisar esta página principal para mantenerte al tanto! 🚀</h4>
 </div>

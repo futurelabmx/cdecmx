@@ -1,0 +1,10 @@
+alignment: is-fullwidth
+style: is-toggle
+size: 
+items:
+  - name: 💻 Contenido del bloque
+    link: /bloque-2B/
+    icon: 
+  - name: 📝 Prueba del módulo B
+    link: /test-2B/
+    icon: 

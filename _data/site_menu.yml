@@ -5,7 +5,7 @@
     - name: Conoce más
       link: /conoce-mas/
     - name: A. Intro a Python
-      link: # 
+      link: 
       items:
         - name: Bloque 1
           link: /bloque-1A/
@@ -20,6 +20,12 @@
       items:
         - name: Bloque 1
           link: /bloque-1B/
+        - name: Bloque 2
+          link: /bloque-2B/
+        - name: Bloque 3
+          link: /bloque-3B/
+        - name: Bloque 4
+          link: /bloque-4B/
     - name: C. Pandas
       link: #
       items:
