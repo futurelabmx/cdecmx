@@ -79,7 +79,7 @@ Procederemos a explorar un poco con una imagen y sus canales de color (revisar e
 <center>
   <br>
   <h4>Revisa los slides:</h4>
-  <a href="https://docs.google.com/presentation/d/e/2PACX-1vSbALnyMedNsW6zo6PhM7r1mH42wS-0Ou214PGYmYBCWZeUw7XBgRpOBEKCQ4c8fDfh2Bhwml-N0IEd/pub?start=false&loop=false&delayms=3000" target="_blank">
+  <a href="https://docs.google.com/presentation/d/e/2PACX-1vTQWfTzIf5OqaIQlAN8IxYuten2qPjhhK3Tr_3R3L6NZR0EEMsFBq_kVrU8wHD5LlIA67upXC0XDWf3/pub?start=false&loop=false&delayms=3000" target="_blank">
     <img width="30%" src="https://img.shields.io/static/v1?label=Slides&message=Google%20Slides&color=tomato" alt="Google Slides"/>
   </a>
   <br><br>
