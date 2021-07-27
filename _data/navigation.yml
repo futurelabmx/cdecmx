@@ -3,7 +3,7 @@
 - name: Contenidos
   link: /bloque-1A/
   dropdown:
-    - name: A. Intro a Python
+    - name: A. Python
       link: /bloque-1A/
     - name: B. NumPy
       link: /bloque-1B/
