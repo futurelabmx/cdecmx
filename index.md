@@ -23,7 +23,7 @@ hide_footer: false
   <u>En los próximos días estaremos actualizando los siguientes contenidos:</u>
   <ul>
     <li>Los videos correspondientes al módulo de Introducción a NumPy. (27/07/2021<sup>*</sup>)</li>
-    <li>La prueba correspondiente al módulo de Introducción a Python. (27/07/2021<sup>*</sup>)</li>
+    <li>La prueba correspondiente al módulo de Introducción a NumPy. (27/07/2021<sup>*</sup>)</li>
     <li>Los contenidos correspondientes al módulo de Introducción a Pandas. (29/07/2021<sup>*</sup>)</li>
   </ul>
 
@@ -137,6 +137,7 @@ Este curso cuenta con un módulo complementario que contiene algunos tópicos se
 - [Curso de Python por Google](https://developers.google.com/edu/python/).
 - Mathes, E. [Python Crash Course: A Hands-On, Project-Based Introduction to Programming](https://nostarch.com/pythoncrashcourse/). No Starch Press, 2015. 
 - Raúl González Duque. [Python para todos](https://launchpadlibrarian.net/18980633/Python%20para%20todos.pdf).
+- Jake VanderPlas. [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/).
 
 
 #### Otros
@@ -147,5 +148,10 @@ Este curso cuenta con un módulo complementario que contiene algunos tópicos se
 
 <details>
   <summary>¿El curso tiene algún costo?</summary>
-  No
+  No, ninguno. Siéntete en la libertad de consumir el curso de manera gratuita y a tu ritmo, pues lo hemos preparado con mucho gusto para ti.
+</details>
+
+<details>
+  <summary>¿El curso tiene alguna vigencia?</summary>
+  No. Una vez se haya liberado el curso, tenemos la intención de que siga siendo útil el mayor tiempo posible. Queremos apoyar a las siguienes generaciones con este curso complementario.
 </details>

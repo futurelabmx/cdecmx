@@ -6,9 +6,9 @@ items:
     description: >
       Mi nombre es Rodo y seré tu instructor en este curso de programación
       con Python. Participo como voluntario en Clubes de Ciencia México desde
-      2015 y he sido instructor en diferentes ocasiones. Actualmente trabajo
-      como ingeniero de machine learning en Zetalabs S.L., donde desarrollo
+      2015 y he sido instructor en diferentes ediciones. Actualmente trabajo
+      como ingeniero de machine learning en Zetalabs S.L. (España), donde desarrollo
       modelos de visión artificial utilizando Python. Soy cofundador de
       Future Lab.
-    call_to_action_name: ✉️ Enviar email
-    call_to_action_link: mailto:ferro@cimat.mx
+    call_to_action_name: ✉️ Enviar mensaje
+    call_to_action_link: https://instagram.com/rodo_ferro

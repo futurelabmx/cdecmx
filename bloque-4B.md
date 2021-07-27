@@ -48,15 +48,41 @@ tabs: test-4B
 </center>
 <br>
 
-<br><br><br>
-<center>
-  <h3>Trabajo en proceso... ⚙️ <br>Espéralo pronto.</h3>
-</center>
+En esta sección aprenderás lo básico sobre NumPy. Hemos preparado un video explicativo para ti, donde cubriremos los siguientes temas:
 
-<!-- <center>
+- Módulo random
+- Módulo de álgebra lineal
+- Conoce SciPy
+
+![YouTube Thumbnail](https://vidooly.com/blog/wp-content/uploads/2015/01/How-to-optimise-your-YouTube-Thumbnails.png)
+
+## Módulo `random`
+
+El módulo `random` incluye funciones para generar números aleatorios, incluidas funciones de distribución de probabilidad y funciones de muestreo.
+
+Conoce más en: [https://numpy.org/doc/stable/reference/random](https://numpy.org/doc/stable/reference/random)
+
+## Módulo `linalg`
+
+El módulo `linalg` incluye funciones para operar matrices y vectores, así como descomposiciones matriciales, soluciones de ecuaciones, eigenvectores y más.
+
+Conoce más en: 
+[https://numpy.org/doc/stable/reference/routines.linalg](https://numpy.org/doc/stable/reference/routines.linalg)
+
+#### (Revisa los ejemplos en el video del bloque)
+
+## Conoce SciPy
+
+
+- Visita: 
+[https://scipy.org](https://scipy.org)
+- **¿Quieres profundizar en SciPy?** Checa este video tutorial SciPy: [https://www.youtube.com/watch?v=jmX4FOUEfgU](https://www.youtube.com/watch?v=jmX4FOUEfgU)
+
+
+<center>
   <br>
   <h4>Revisa los slides:</h4>
-  <a href="https://docs.google.com/presentation/d/e/2PACX-1vSbALnyMedNsW6zo6PhM7r1mH42wS-0Ou214PGYmYBCWZeUw7XBgRpOBEKCQ4c8fDfh2Bhwml-N0IEd/pub?start=false&loop=false&delayms=3000" target="_blank">
+  <a href="https://docs.google.com/presentation/d/e/2PACX-1vRNEcx6cuvGba9VPZ_cYpSyMUeKMRd9-fPRtkqInpsiHO_t84OKdnHPeZp6eSVDxzdKYj2FvLWum9F1/pub?start=false&loop=false&delayms=3000" target="_blank">
     <img width="30%" src="https://img.shields.io/static/v1?label=Slides&message=Google%20Slides&color=tomato" alt="Google Slides"/>
   </a>
   <br><br>
@@ -64,7 +90,7 @@ tabs: test-4B
   <a href="https://colab.research.google.com/github/futurelabmx/cdecmx/blob/main/B%20-%20Intro%20a%20NumPy.ipynb" target="_blank">
     <img width="30%" src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
   </a>
-</center> -->
+</center>
 
 <!-- Buttons -->
 <br>
