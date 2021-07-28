@@ -22,9 +22,9 @@ hide_footer: false
   
   <u>En los próximos días estaremos actualizando los siguientes contenidos:</u>
   <ul>
-    <li>Los videos correspondientes al módulo de Introducción a NumPy. (27/07/2021<sup>*</sup>)</li>
-    <li>La prueba correspondiente al módulo de Introducción a NumPy. (27/07/2021<sup>*</sup>)</li>
-    <li>Los contenidos correspondientes al módulo de Introducción a Pandas. (29/07/2021<sup>*</sup>)</li>
+    <li>Los videos correspondientes al módulo de Introducción a NumPy. (28/07/2021<sup>*</sup>)</li>
+    <li>La prueba correspondiente al módulo de Introducción a NumPy. (28/07/2021<sup>*</sup>)</li>
+    <li>Los contenidos correspondientes al módulo de Introducción a Pandas. (31/07/2021<sup>*</sup>)</li>
   </ul>
 
   <p><sup>*</sup> Fechas tentativas.</p>
@@ -36,7 +36,7 @@ hide_footer: false
 
 ¡Aprende a programar en lenguaje Python con Clubes de Ciencia México y Future Lab! 🐍🚀
 
-Este es un curso diseñado y preparado con mucho 💙 y 💻 para las y los Cluberos que están por comenzar la travesía de iniciar en el mundo de la programación. Aquí aprenderás conceptos funcamentales y casos de aplicació en diferentes áreas de las ciencias, como procesamiento digital de imágenes, estadística y más.
+Este es un curso diseñado y preparado con mucho 💙 y 💻 para las y los Cluberos que están por comenzar la travesía de iniciar en el mundo de la programación. Aquí aprenderás conceptos fundamentales y casos de aplicación en diferentes áreas de las ciencias, como procesamiento digital de imágenes, estadística y más.
 
 
 # Temario
