@@ -54,7 +54,9 @@ En esta sección aprenderás lo básico sobre NumPy. Hemos preparado un video ex
 - Trasposición, aplanamiento y reversa
 - Reshape de matrices
 
-![YouTube Thumbnail](https://vidooly.com/blog/wp-content/uploads/2015/01/How-to-optimise-your-YouTube-Thumbnails.png)
+<figure class="image is-16by9">
+  <iframe class="has-ratio" src="https://www.youtube.com/embed/V82s0WgW7oQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</figure>
 
 ## Trasposición, aplanamiento y reversa
 
