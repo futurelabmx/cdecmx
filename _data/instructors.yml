@@ -12,3 +12,16 @@ items:
       Future Lab.
     call_to_action_name: ✉️ Enviar mensaje
     call_to_action_link: https://instagram.com/rodo_ferro
+    
+  - title: Missael Barco
+    subtitle: Future Lab / Clubes de Ciencia México / G.O.L.F.
+    photo: ../assets/images/missa.jpeg
+    description: >
+      ¡Hola! Soy Missa, y seré tu instructor en el módulo de Pandas. Soy un estudiante 
+      de Física en la Universidad de Guanajuato. Realicé una estancia de investigación 
+      en Western University, donde desarrollé software científico con Python; 
+      me gusta hacer ciencia con código. Además, soy GitHub Campus Expert, 
+      cofundador del Grupo de Licenciatura en Física (G.O.L.F.) 
+      y voluntario en Clubes de Ciencia México.
+    call_to_action_name: ✉️ Enviar mensaje
+    call_to_action_link: https://twitter.com/GMissaelBarco
