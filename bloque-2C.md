@@ -1,9 +1,9 @@
 ---
 title: "Bloque 2:"
 subtitle: >
-- Revisando los datos. <br>
-- Selección de datos por etiqueta. <br>
-- Selección de datos por posición.
+   - Revisando los datos. <br>
+   - Selección de datos por etiqueta. <br>
+   - Selección de datos por posición.
 layout: page
 show_sidebar: false
 hide_footer: false

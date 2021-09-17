@@ -1,10 +1,10 @@
 ---
 title: "Bloque 3:"
 subtitle: >
-- Operaciones básicas: Estadísticos <br>
-- Operaciones básicas: Apply <br>
-- Unión de datos: Concatenación <br>
-- Bonus: Gráficas en Pandas.
+   - Operaciones básicas: Estadísticos <br>
+   - Operaciones básicas: Apply <br>
+   - Unión de datos: Concatenación <br>
+   - Bonus: Gráficas en Pandas.
 layout: page
 show_sidebar: false
 hide_footer: false

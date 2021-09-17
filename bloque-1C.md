@@ -1,10 +1,10 @@
 ---
 title: "Bloque 1:"
 subtitle: >
-- Introducción a Pandas. <br>
-- Dónde encontrar datos. <br>
-- Carga de datos de diferentes formatos. <br>
-- Series y DataFrames.
+   - Introducción a Pandas. <br>
+   - Dónde encontrar datos. <br>
+   - Carga de datos de diferentes formatos. <br>
+   - Series y DataFrames.
 layout: page
 show_sidebar: false
 hide_footer: false
