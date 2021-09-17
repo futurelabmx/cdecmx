@@ -6,7 +6,7 @@ layout: page
 show_sidebar: false
 hide_footer: false
 menubar: site_menu
-tabs: test-1C
+tabs: test-3C
 ---
 
 <br><br><br>
