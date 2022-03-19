@@ -1,0 +1,10 @@
+alignment: is-fullwidth
+style: is-toggle
+size: 
+items:
+  - name: 💻 Contenido del bloque
+    link: /bloque-1C/
+    icon: 
+  - name: 📝 Prueba del módulo C
+    link: /test-1C/
+    icon: 

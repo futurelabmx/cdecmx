@@ -65,7 +65,7 @@ Conoce el temario completo que ha sido dispuesto a través de los 4 módulos a c
     <li>Carga de datos de diferentes formatos</li>
     <li>Series y DataFrames</li>
     <li>Revisando los datos</li>
-    <li>Selección de datos por columna</li>
+    <li>Selección de datos por etiqueta</li>
     <li>Selección de datos por posición</li>
     <li>Operaciones básicas: Estadísticos</li>
     <li>Operaciones básicas: Apply</li>
