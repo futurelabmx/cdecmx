@@ -54,7 +54,7 @@ En esta sección aprenderás lo básico sobre Pandas, al menos a un nivel concep
 - Selección de datos por posición.
 
 <figure class="image is-16by9">
-  <iframe class="has-ratio" src="https://www.youtube.com/embed/xm4jKcZDdxc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe class="has-ratio" src="https://www.youtube.com/embed/ueYwoVkNg0c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </figure>
 
 ## Revisando los datos.
