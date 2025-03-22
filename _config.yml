@@ -1,4 +1,4 @@
-theme: bulma-clean-theme
+theme: bulma-clean-theme@v1.0.0
 
 # Site Settings
 title: ¡Aprende Python! 🐍
