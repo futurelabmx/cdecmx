@@ -13,7 +13,7 @@ hide_footer: false
 <div class="notification is-link">
   <h2 class="has-text-white">⚠️ ¡IMPORTANTE! (22/03/2025)</h2>
 
-  <u>¡Hemos actualizado los contenidos!</u><br><br>
+  <u>¡Hemos actualizado los contenidos! 🚀</u><br><br>
 
   <p>En el website encontrarás:</p>
   <ul>
@@ -24,7 +24,7 @@ hide_footer: false
   
   <u>Por favor considera:</u>
   <ul>
-    <li>Las pruebas correspondientes a los módulos de "Introducción a NumPy" e "Introducción a Pandas" están pendientes de ser subidos, por lo que te revisamos practicar con los ejercicios del cuaderno correpsondiente a cada bloque.</li>
+    <li>Las pruebas correspondientes a los módulos de "Introducción a NumPy" e "Introducción a Pandas" están pendientes de ser subidos, por lo que te sugerimos revisar y practicar con los ejercicios del cuaderno correspondiente a cada bloque en lo que los test son subidos y actualizados. 🫡</li>
   </ul>
 </div>
 
