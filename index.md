@@ -11,24 +11,21 @@ hide_footer: false
 ---
 
 <div class="notification is-link">
-  <h2 class="has-text-white">¡IMPORTANTE! ⚠️ (15/10/2021)</h2>
+  <h2 class="has-text-white">⚠️ ¡IMPORTANTE! (22/03/2025)</h2>
 
-  <u>A la fecha, hemos agregado los siguientes contenidos:</u>
+  <u>¡Hemos actualizado los contenidos!</u><br><br>
+
+  <p>En el website encontrarás:</p>
   <ul>
-    <li>Todos los contenidos del módulo de Introducción a Python.</li>
-    <li>Los materiales y diapositivas correspondientes al módulo de Introducción a NumPy.</li>
-    <li>Los videos correspondientes al módulo de Introducción a NumPy.</li>
+    <li>Todos los contenidos del módulo de "Introducción a Python", incluyendo pruebas.</li>
+    <li>Los videos, materiales y diapositivas correspondientes al módulo de "Introducción a NumPy".</li>
+    <li>Los videos, materiales y diapositivas correspondientes al módulo de "Introducción a Pandas". <b>(¡NUEVO!)</b></li>
   </ul>
   
-  <u>En los próximos días estaremos actualizando los siguientes contenidos:</u>
+  <u>Por favor considera:</u>
   <ul>
-    <li>La prueba correspondiente al módulo de Introducción a NumPy.</li>
-    <li>Los contenidos correspondientes al módulo de Introducción a Pandas.</li>
+    <li>Las pruebas correspondientes a los módulos de "Introducción a NumPy" e "Introducción a Pandas" están pendientes de ser subidos, por lo que te revisamos practicar con los ejercicios del cuaderno correpsondiente a cada bloque.</li>
   </ul>
-
-  <p><sup>*</sup> Fechas tentativas.</p>
-
-  <h4 class="has-text-white">¡Te recomendamos constantemente revisar esta página principal para mantenerte al tanto! 🚀</h4>
 </div>
 
 ### Este curso es para ti...
